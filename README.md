@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/rajawatshivam/circleci-Testing.svg?style=svg)](https://circleci.com/gh/rajawatshivam/circleci-Testing)
+
 # TourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
