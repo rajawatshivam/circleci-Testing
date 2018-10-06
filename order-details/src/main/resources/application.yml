@@ -1,5 +1,0 @@
-server:
-  port: 9076
-spring:
-  application:
-    name: order-ms
